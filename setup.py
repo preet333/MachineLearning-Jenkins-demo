@@ -5,17 +5,17 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.1"
 
-REPO_NAME = "LoanApprovalPrediction"
-AUTHOR_USER_NAME = "mihir3030"
-SRC_REPO = "Loan-Approve-Prediction"
-AUTHOR_EMAIL = "mihirdholakia777@gmail.com"
+REPO_NAME = "MLJenkins-1"
+AUTHOR_USER_NAME = "preet333"
+SRC_REPO = "MLJenkins-1"
+AUTHOR_EMAIL = "preetpatel3398@gmail.com"
 
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
-    description="Loan APproval Prediction",
+    description="MLJenkins-1",
     long_description=long_description,
     long_description_content="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
