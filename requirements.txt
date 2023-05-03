@@ -3,5 +3,5 @@ pandas
 flask
 scikit-learn
 dvc
-dvc-grive
+dvc-grdive
 -e .
