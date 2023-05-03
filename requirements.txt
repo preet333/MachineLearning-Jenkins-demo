@@ -2,8 +2,8 @@ numpy
 pandas
 flask
 scikit-learn
-dvc
-dvc-gdrive
+#dvc
+#dvc-gdrive
 click
 itsdangerous
 Jinja2
