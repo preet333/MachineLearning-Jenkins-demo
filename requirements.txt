@@ -3,5 +3,11 @@ pandas
 flask
 scikit-learn
 dvc
-dvc-grive
--e .
+dvc-gdrive
+click
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+wheel
+
