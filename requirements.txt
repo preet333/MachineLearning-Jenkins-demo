@@ -4,4 +4,10 @@ flask
 scikit-learn
 dvc
 dvc-gdrive
--e .
+click
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+wheel
+
